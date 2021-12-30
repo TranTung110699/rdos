@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d5529445b4e7150aee55393d604c9fc9",
+    "revision": "3468dbbe8b18b407980197546c4d23dc",
     "url": "/rdos/index.html"
   },
   {
-    "revision": "d6bd77bbc422e38280bb",
-    "url": "/rdos/static/css/2.1dcf17fc.chunk.css"
+    "revision": "43d8cf71967df0690ba4",
+    "url": "/rdos/static/css/2.216ca831.chunk.css"
   },
   {
-    "revision": "1bbbe71847e3fdf32e69",
-    "url": "/rdos/static/css/main.f82796e6.chunk.css"
+    "revision": "1eae3ad231525540fdc3",
+    "url": "/rdos/static/css/main.81466451.chunk.css"
   },
   {
-    "revision": "d6bd77bbc422e38280bb",
+    "revision": "43d8cf71967df0690ba4",
     "url": "/rdos/static/js/2.05cb39c6.chunk.js"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rdos/static/js/3.2e4f0581.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1bbbe71847e3fdf32e69",
+    "revision": "1eae3ad231525540fdc3",
     "url": "/rdos/static/js/main.53d9c0f0.chunk.js"
   },
   {
