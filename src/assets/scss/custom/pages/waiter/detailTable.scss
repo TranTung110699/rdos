@@ -1,0 +1,214 @@
+
+@media only screen and (max-width: 750px) {
+  .container_detail{
+    width: auto;
+    font-family: Cabin;
+    font-style: normal;
+    height: auto;
+    background: #FFFFFF;
+  }
+
+  .number_customer_form{
+    width: 100%;
+    text-align: center;
+    background-color: #F8F8FB;
+    color: #1E1C19;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    padding: 30px 0px;
+
+
+  }
+  .number_customer_form .btn2{
+    width: 30%;
+    height: 30px;
+    border: none;
+    margin: 0 5px;
+    background: #FCBC3A;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #1E1C19;
+  }
+  .number_customer_form .btn1{
+    width: 30%;
+    height: 30px;
+    border: none;
+    margin: 0 5px;
+    background: #E5E5E5;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #7A7A7A;
+  }
+  .number_customer_form .btn3{
+    width: 30%;
+    height: 30px;
+    border: none;
+    margin: 0 5px;
+    background: #FCBC3A;
+    border-radius: 30px;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #1E1C19;
+  }
+  .list-Item_detail{
+    margin-top: 20px;
+    display: flex;
+    justify-items: center;
+    flex-direction: column;
+    //height: 300px;
+  }
+  .item-form-detail{
+    position: relative;
+    display: flex;
+    background: #EEEEEE;
+    margin-left: 5%;
+    margin-bottom: 3%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    width: 90%;
+    padding: 10px 0;
+  }
+  .list-Item_detail .item-form-detail .item-form-one{
+    width: 60%;
+    padding-left: 5%;
+    display: flex;
+    flex-direction: column;
+  }
+  .list-Item_detail .item-form-detail span:nth-child(1){
+    width: 100%;
+    padding-bottom: 10px ;
+    color: #1E1C19;
+    text-align: left;
+
+  }
+  .list-Item_detail .item-form-detail span:nth-child(2){
+    width: 30%;
+    text-align: left;
+  }
+  .contain_button_detail {
+    position: absolute;
+    top: 21px;
+    right: -10px;
+
+    font-family: Cabin;
+    font-style: normal;
+    font-weight: bold;
+    color: #FFFFFF;
+
+    text-align: center;
+    .delete_contain_button_detail {
+      height: 20px;
+      width: 20px;
+      background-color: #DC4040;
+      .delete-icon-button{
+        margin-top: -2px;
+      }
+    }
+  }
+  .Search-item-form{
+
+    height: 450px;
+  }
+
+  .search_plus_button_detail{
+    font-size: 18px;
+    position: absolute;
+    top: 20px;
+    right: -8px;
+    width: 20px;
+    height: 20px;
+    padding-top: 3px;
+    border-radius: 50%;
+    background-color: #FCBC3A;
+
+    font-family: Cabin;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 12px;
+    color: black;
+
+    text-align: center;
+    letter-spacing: -0.15em;
+  }
+  .search-input{
+    margin: 0 8%;
+    padding: 4px 0;
+    border-radius: 5px;
+    border: 1px solid #FCBC3A;
+  }
+
+  .search-input-field{
+    height: 30px;
+    width: 250px;
+    border: none;
+  }
+
+  input:focus{
+    outline: none;
+  }
+  /* Chrome, Safari, Edge, Opera */
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  /* Firefox */
+  input[type=number] {
+    -moz-appearance: textfield;
+  }
+  .btn-form{
+    margin: 20px 0;
+    display: flex;
+  }
+  .btn_1{
+    margin:0 5%;
+    background: #E5E5E5;
+    border-radius: 10px;
+    width: 40%;
+    padding: 10px 0;
+    font-family: Cabin;
+    font-size: 14px;
+    font-weight: bold;
+  }
+
+  .btn_2{
+    margin:0 5%;
+    padding: 10px 0;
+    background: #FCBC3A;
+    border-radius: 10px;
+    width: 40%;
+    font-family: Cabin;
+    font-size: 14px;
+    font-weight: bold;
+  }
+
+  .minus-button-waiter{
+    height: 12px;
+    width: 12px;
+  }
+
+  .plus-button-waiter{
+    height: 10px;
+    width: 10px;
+  }
+
+}

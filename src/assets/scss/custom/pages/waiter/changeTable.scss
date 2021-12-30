@@ -1,0 +1,32 @@
+
+@media only screen and (max-width: 750px) {
+  .container_detail {
+    width: auto;
+    font-family: 'Cabin';
+    height: auto;
+    font-style: normal;
+    background: #FFFFFF;
+  }
+
+  input[type = 'checkbox'].check-table:checked ~ div.page{
+    background-color: #FFEFCD;
+    border: 3px solid #FCBC3A;
+  }
+
+  .btn-change{
+    background: #FCBC3A;
+    border-radius: 10px;
+    margin: 30px 5%;
+    width: 90%;
+    padding: 12px 0;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 16px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #1E1C19;
+
+  }
+}

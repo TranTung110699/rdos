@@ -1,0 +1,150 @@
+
+@media only screen and (max-width: 750px) {
+  //*{
+  //  margin: 0;
+  //  padding: 0;
+  //}
+
+  .container_all{
+    width: auto;
+    background: #FFFFFF;
+    height: auto;
+  }
+
+  .page {
+    position: relative;
+    color: #1E1C19;
+    height: 40px;
+    background: #FFEFCD;
+    border: 1px solid #FCBC3A;
+    box-sizing: border-box;
+    border-radius: 10px;
+  }
+
+
+  .paginationHome{
+    margin-top: 10px;
+    height: 100%;
+    width: 100%;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  .paginationHome a{
+    padding: 5px;
+    margin: 8px;
+    border-radius: 100%;
+    color: #000000;
+    font-family: Cabin;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: center;
+    cursor: pointer;
+    padding: 2px 0;
+  }
+  .paginationActiveHome{
+    background-color: #FCBC3A;
+
+
+  }
+
+  .contain_button_all {
+    position: absolute;
+    top: -7px;
+    right: -6px;
+    padding: 3px 6px;
+    border-radius: 50%;
+    background-color: #DC4040;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    color: #FFFFFF;
+
+    text-align: center;
+    letter-spacing: -0.15em;
+  }
+
+  .contain_button_all-detail{
+    position: absolute;
+    top: 8px;
+    right: 22px;
+    padding: 3px 6px;
+    border-radius: 50%;
+    background-color: #DC4040;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    color: #FFFFFF;
+
+    text-align: center;
+    letter-spacing: -0.15em;
+  }
+
+  .list {
+    display: grid;
+    justify-content: center;
+    grid-gap: 1.5rem;
+    margin-top: 40px;
+    width: 100%;
+    grid-template-columns: 41% 41%;
+  }
+  .content_all{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+    padding-top: 10px;
+  }
+
+  .content_all .one{
+    font-family: Cabin;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    text-align: right;
+
+    color: #1E1C19;
+  }
+  .content_all .two{
+
+    font-family: Cabin;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+
+    color: #1E1C19;
+  }
+
+  .dia_form{
+    width: 400px;
+    height: 207px;
+    background: #FFFFFF;
+    /* Shadow */
+
+  }
+  .text_field{
+    width: 220px;
+    height: 30px;
+    left: 30px;
+    top: 299px;
+
+    background: #FFFFFF;
+    border: 1px solid #FCBC3A;
+    box-sizing: border-box;
+    border-radius: 5px;
+  }
+
+}

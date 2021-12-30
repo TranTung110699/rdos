@@ -1,0 +1,98 @@
+.img-avt {
+  margin-top: 220px;
+}
+
+.see-more-picture {
+  color: blue;
+  display: block;
+  text-align: center;
+}
+
+.img-user {
+  height: 100px;
+  margin: 10px 27px;
+  border-radius: 7px;
+}
+
+.rounded-circle {
+  background: white;
+  box-shadow: 0 2px 8px -2px #9a9a9a;
+}
+
+.ranks {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.friends {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.font-weight {
+  font-weight: 400;
+}
+
+.body-card {
+  box-shadow: 0 2px 8px -3px #9a9a9a !important;
+}
+
+.card-heading-image {
+  width: 100%;
+  height: 400px;
+  background-image: url("./../../../../images/thanks/avt.PNG");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.card-description {
+  display: flex;
+  .limit-text {
+    width: 450px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+}
+
+.see-description {
+  cursor: pointer;
+  background: #bdbdf3;
+  font-size: 26px;
+  width: 60px;
+  text-align: center;
+  margin: -19px auto 10px auto;
+  line-height: 0px;
+  border-radius: 5px;
+  color: #2626fb;
+}
+
+.thank-people {
+  display: flex;
+  &__sender {
+    padding: 0 5px;
+  }
+}
+
+.text-center {
+  text-transform: uppercase;
+  .see-more {
+    background-color: #e2ecf5;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 7;
+    cursor: pointer;
+  }
+}
+.flex-image {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: start;
+  .see-more-image {
+    background-color: #e2ecf5;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 7;
+    cursor: pointer;
+  }
+}

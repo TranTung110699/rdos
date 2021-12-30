@@ -1,0 +1,51 @@
+
+
+
+@media only screen and (max-width: 750px) {
+  .MyHeader{
+    display: flex;
+    color: #1E1C19;
+    width: 100%;
+    font-family: 'Cabin';
+    justify-content: space-between;
+    padding: 5% 3% 3% 3%;
+  }
+
+  .title_header{
+    font-size: 14px;
+    font-weight: bold;
+    width: 120px;
+    height: 30px;
+    left: 100px;
+    top: 10px;
+    text-align: center;
+    background: #EEEEEE;
+    border-radius: 20px;
+  }
+
+  .title_header p {
+    padding-top: 5px;
+    horiz-align: center;
+  }
+
+  .toggle-logout img{
+    position: relative;
+    max-width: 40px;
+    cursor: pointer;
+  }
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    overflow: auto;
+  }
+  .dropdown-content{
+    position: absolute;
+    right: 30px;
+    background-color: #f9f9f9;
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  }
+
+}

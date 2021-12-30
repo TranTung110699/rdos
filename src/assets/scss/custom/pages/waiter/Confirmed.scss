@@ -1,0 +1,83 @@
+
+@media only screen and (max-width: 750px) {
+  .container_checkList {
+    width: auto;
+    font-style: normal;
+    height: auto;
+    background: #FFFFFF;
+  }
+  .list-Item{
+    margin: 40px 0;
+    display: flex;
+    justify-items: center;
+    flex-direction: column;
+  }
+  .item-form-checkList{
+    position: relative;
+    display: flex;
+    background: #EEEEEE;
+    margin-left: 5%;
+    margin-bottom: 6%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    width: 90%;
+    padding: 15px 0;
+  }
+  .list-Item .item-form-checkList span:nth-child(1){
+    width: 50%;
+    text-align: left;
+    padding-left: 5%;
+  }
+
+  .contain_button_ced {
+    position: absolute;
+    top: 15px;
+    right: -10px;
+
+    font-family: Cabin;
+    font-style: normal;
+    font-weight: bold;
+    color: #FFFFFF;
+
+    text-align: center;
+    .delete_contain_button_detail {
+      height: 20px;
+      width: 20px;
+      background-color: #DC4040;
+      .delete-icon-button{
+        margin-top: -2px;
+      }
+    }
+  }
+  .save-button{
+    position: absolute;
+    top: 30px;
+    right: 25px;
+    padding: 5px 10px;
+    background: #FFEFCD;
+    border: 1px solid #FCBC3A;
+    box-sizing: border-box;
+    border-radius: 17px;
+  }
+  .save-button span{
+    padding: 0 8px;
+  }
+  .note-form{
+    background: #FFEFCD;
+    border-radius: 10px;
+    width: 90%;
+    height: 100px;
+    border:none;
+    text-align: left;
+  }
+
+  .minus-button-waiter{
+    height: 12px;
+    width: 12px;
+  }
+
+  .plus-button-waiter{
+    height: 10px;
+    width: 10px;
+  }
+}

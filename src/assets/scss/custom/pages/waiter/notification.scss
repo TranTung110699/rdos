@@ -1,0 +1,133 @@
+
+
+
+@media only screen and (max-width: 750px) {
+    .container_detail {
+        width: auto;
+        font-family: Cabin;
+        height: auto;
+        font-style: normal;
+        background: #FFFFFF;
+    }
+
+    .nav-notification {
+        text-align: center;
+        display: grid;
+        justify-content: center;
+        grid-gap: 0.1rem;
+        width: 100%;
+        grid-template-columns: 20% 20% 20% 20% 20%;
+    }
+
+    .nav-notification .nav_form {
+        display: flex;
+        flex-direction: column;
+        //margin-left: 10px;
+        //margin-right: 10px;
+    }
+
+    //.nav-notification .nav-item{
+    //
+    //}
+
+    .link_form {
+        margin: 0 auto;
+        width: 38px;
+        height: 38px;
+        left: 25px;
+        top: 69px;
+        border-radius: 50%;
+        background: #FFEFCD;
+
+    }
+
+    .link_form img {
+        margin-top: 15%;
+    }
+
+    .link_form p {
+        font-weight: 500;
+        font-size: 11px;
+        line-height: 13px;
+        text-align: center;
+
+        color: #1E1C19;
+    }
+
+    //input[type = 'radio'].check-nav:checked ~ div.link_form{
+    //    background-color: #FCBC3A;
+    //}
+
+
+    .list-Item-Notification{
+        margin-top: 40px;
+        height: 400px;
+        display: flex;
+        justify-items: center;
+        flex-direction: column;
+    }
+    .item-form{
+        display: flex;
+        background: #FFEFCD;
+        margin-left: 5%;
+        margin-bottom: 4%;
+        border: 1px solid #FCBC3A;
+        box-sizing: border-box;
+        border-radius: 10px;
+        width: 90%;
+        padding: 10px 0;
+    }
+    .list-Item .item-form span:nth-child(1){
+        width: 50%;
+        text-align: left;
+        padding-left: 5%;
+    }
+    .list-Item .item-form span:nth-child(2){
+        width: 30%;
+        text-align: left;
+    }
+
+    .menu-bar-waiter{
+        overflow: auto;
+        white-space: nowrap;
+        z-index: 150;
+        width: 100%;
+        overflow-y: scroll;
+        background-color: #fff;
+        text-align: center;
+        height: 90px;
+        .menu-type-a-waiter{
+            height: 100%;
+            .menu-type-waiter{
+                width: 100%;
+                height: 100%;
+                background-color: transparent;
+                border: 0;
+                padding-left: 15px;
+                padding-right: 15px;
+                font-size: 14px;
+                position: relative;
+                outline: 0;
+                .cate-background-color-waiter{
+                    background-color: #FFEFCD !important;
+                    .icon-button-menu-waiter{
+                        width: 25px;
+                        height: 25px;
+                    }
+                }
+                input[type = 'radio'].check-nav:checked ~ div.avatar-sm>div.cate-background-color-waiter{
+                    background-color: #FCBC3A !important;
+                }
+                .square-text-button-waiter{
+                    font-family: Cabin;
+                    font-style: normal;
+                    font-weight: 600;
+                    font-size: 13px;
+                    line-height: 16px;
+                    text-align: center;
+                    color: #1E1C19;
+                }
+            }
+        }
+    }
+}

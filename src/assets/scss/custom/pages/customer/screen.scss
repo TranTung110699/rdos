@@ -1,0 +1,17 @@
+@media(max-width: 900px) {
+  .display-customer{
+    margin-bottom: 60px;
+  }
+  .none-display-customer{
+    display: none;
+  }
+}
+
+@media(min-width: 900px) {
+  .display-customer{
+    display: none;
+  }
+  .none-display-customer{
+
+  }
+}

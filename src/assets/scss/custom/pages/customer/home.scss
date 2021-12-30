@@ -1,0 +1,126 @@
+.v4_1 {
+  width: auto;
+  height: auto;
+  margin-top: 20px;
+  margin-bottom: 30px;
+
+  .header-home-table-code{
+    .span-table-code{
+      width: 120px;
+      height: 34px;
+      background: #EEEEEE;
+      border-radius: 20px;
+      .div-table-code{
+        font-family: Cabin;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 17px;
+        text-align: center;
+        color: #1E1C19;
+      }
+    }
+  }
+
+  .welcome-text{
+    color: #FCBC3A;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: Cabin;
+    line-height: 27px;
+  }
+  .welcome-do{
+    color: #000000;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    font-family: Cabin;
+    line-height: 17px;
+  }
+  .menu-button{
+    width: 90%;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 55px;
+    background: #FCBC3A;
+    border-radius: 10px;
+    border: 1px solid #FCBC3A;
+    .text-button{
+      font-family: Cabin;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 13px;
+      line-height: 16px;
+      color: #1E1C19;
+      .icon-button{
+        //width: 20px;
+        //height: 15px;
+      }
+    }
+  }
+  .menu-button-disable{
+    width: 90%;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 55px;
+    background: #E5E5E5;
+    border-radius: 10px;
+    border: 1px solid #E5E5E5;
+    .text-button{
+      font-family: Cabin;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 13px;
+      line-height: 16px;
+      color: #7A7A7A;
+      .icon-button{
+        //width: 20px;
+        //height: 15px;
+      }
+    }
+  }
+  .menu-button-disable-none{
+    width: 90%;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 55px;
+    background: #FCBC3A;
+    border-radius: 10px;
+    border: 1px solid #FCBC3A;
+    .text-button{
+      font-family: Cabin;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 13px;
+      line-height: 16px;
+      color: #000000;
+      .icon-button{
+        //width: 20px;
+        //height: 15px;
+      }
+    }
+  }
+  .three-button{
+    width: 90%;
+    margin-left: calc(100% - 95%);
+    .square-button{
+      margin-left: calc(100% - 97.5%);
+      width: 30%;
+      border-radius: 10px;
+      .icon-button{
+        //width: 25px;
+        //height: 20px;
+      }
+      .square-text-button{
+        font-family: Cabin;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 13px;
+        line-height: 16px;
+        text-align: center;
+        color: #1E1C19;
+      }
+    }
+  }
+}

@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc038c7a-2136-4fab-b594-f0317ca4f3f2" name="Default Changelist" comment="Commit waiter change api comfirmed order">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1vCRYF8h2kYR27l0lLMpu5A4Gdh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../rdos 30-12/rdos" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\1stDO AN Se9\CodeFrontend\RDOS-frontend\src\pages\Kitchen" />
+      <recent name="E:\1stDO AN Se9\CodeFrontend\RDOS-frontend\src\assets\audio" />
+      <recent name="E:\1stDO AN Se9\CodeFrontend\RDOS-frontend\src\assets\images\waiter" />
+      <recent name="E:\1stDO AN Se9\CodeFrontend\RDOS-frontend\src\store" />
+      <recent name="E:\1stDO AN Se9\CodeFrontend\RDOS-frontend\src\assets\scss\custom\pages" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc038c7a-2136-4fab-b594-f0317ca4f3f2" name="Default Changelist" comment="" />
+      <created>1626064139511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626064139511</updated>
+      <workItem from="1626064143692" duration="67000" />
+      <workItem from="1626064337601" duration="24019000" />
+      <workItem from="1626094478438" duration="10000" />
+      <workItem from="1626095479031" duration="38311000" />
+      <workItem from="1626241605713" duration="3669000" />
+      <workItem from="1626327690597" duration="23364000" />
+      <workItem from="1626398752988" duration="123782000" />
+      <workItem from="1626681792505" duration="47580000" />
+      <workItem from="1626921059658" duration="66032000" />
+      <workItem from="1627314680298" duration="914000" />
+      <workItem from="1627355465024" duration="754000" />
+      <workItem from="1627729701882" duration="8650000" />
+      <workItem from="1627808550483" duration="8969000" />
+      <workItem from="1627870735096" duration="23000" />
+      <workItem from="1627870787369" duration="22132000" />
+      <workItem from="1627976736633" duration="19993000" />
+      <workItem from="1628134266953" duration="7277000" />
+      <workItem from="1628507872764" duration="12739000" />
+      <workItem from="1628557866045" duration="7575000" />
+      <workItem from="1628611173815" duration="1164000" />
+      <workItem from="1628612370896" duration="734000" />
+      <workItem from="1628757421553" duration="28442000" />
+      <workItem from="1628830595400" duration="29843000" />
+      <workItem from="1629040481829" duration="50000" />
+      <workItem from="1629042424991" duration="56000" />
+      <workItem from="1629075412365" duration="1281000" />
+      <workItem from="1629123803916" duration="4752000" />
+      <workItem from="1629158004770" duration="51983000" />
+      <workItem from="1629365459003" duration="20295000" />
+      <workItem from="1629532668122" duration="7729000" />
+      <workItem from="1629600126235" duration="2481000" />
+      <workItem from="1629698840879" duration="13856000" />
+      <workItem from="1629959060243" duration="29649000" />
+      <workItem from="1630032185132" duration="38282000" />
+      <workItem from="1630208593925" duration="5863000" />
+      <workItem from="1630250182747" duration="1987000" />
+      <workItem from="1630330096024" duration="13406000" />
+      <workItem from="1630405946448" duration="662000" />
+      <workItem from="1630420364633" duration="12734000" />
+      <workItem from="1630459073817" duration="3786000" />
+      <workItem from="1630571603287" duration="1397000" />
+      <workItem from="1630717347478" duration="587000" />
+      <workItem from="1632622406539" duration="51000" />
+      <workItem from="1633085545341" duration="631000" />
+      <workItem from="1633878705356" duration="607000" />
+      <workItem from="1636098129593" duration="33000" />
+      <workItem from="1636294133478" duration="472000" />
+      <workItem from="1636615185799" duration="670000" />
+      <workItem from="1636622738943" duration="4000" />
+      <workItem from="1638174474777" duration="730000" />
+      <workItem from="1639992348723" duration="32748000" />
+    </task>
+    <task id="LOCAL-00013" summary="Commit receptionist fix pagination">
+      <created>1626777667166</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1626777667166</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Commit kitchen manager order list and update status">
+      <created>1626802944596</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1626802944597</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Commit kitchen manager noti and update status">
+      <created>1626804291819</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1626804291819</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Commit kitchen manager menu and update serve">
+      <created>1626939698608</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1626939698608</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Commit receptionist fix display after enter voucher">
+      <created>1626941834700</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1626941834700</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Commit receptionist fix minusButton and customer fix menu">
+      <created>1626957006499</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1626957006499</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Commit kitchen manager all status of item">
+      <created>1627033293155</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1627033293155</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Commit kitchen manager delete item">
+      <created>1627115606915</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1627115606915</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Commit update axios">
+      <created>1627315338988</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1627315338988</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Commit update search and change eng to vie">
+      <created>1627747052920</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1627747052920</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Commit fix matching order">
+      <created>1627814531500</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1627814531500</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Commit update menu bar recep and kitchen">
+      <created>1627817590469</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1627817590469</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Commit update menu and button and order code">
+      <created>1627889148669</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1627889148669</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Commit fix menu color and delete note for recep">
+      <created>1627900430439</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1627900430439</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Commit fix menu color and delete note for recep 2">
+      <created>1627900781167</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1627900781167</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Commit fix order list receptionist display">
+      <created>1627981414771</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1627981414771</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Commit change password by receptionist">
+      <created>1628010003112</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1628010003112</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Commit notification of kitchen manager">
+      <created>1628160412068</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1628160412068</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Commit menu and navbar waiter">
+      <created>1628511508488</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1628511508488</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Commit delete button and price and font waiter">
+      <created>1628518587234</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1628518587234</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Commit fix font size all">
+      <created>1628523323253</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1628523323253</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Commit fix plus minus button size and distance from menu bar to navbar">
+      <created>1628564330583</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1628564330583</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Commit add button customer">
+      <created>1628571601718</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1628571601718</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Commit add item to cart then push to menu customer">
+      <created>1628611609025</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1628611609025</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Commit customer add item and push to menu">
+      <created>1628612151470</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1628612151470</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Commit customer big update menu and waiter navbar">
+      <created>1628792232536</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1628792232536</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Commit customer big update menu second">
+      <created>1628793865189</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1628793865189</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Commit customer search and navbar waiter">
+      <created>1628859929686</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1628859929686</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Commit customer menu smooth">
+      <created>1628879933027</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1628879933027</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Commit customer menu scroll and dish in combo waiter open table and completed confirm">
+      <created>1629177600733</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1629177600733</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Commit receptionist fix manage table">
+      <created>1629252695831</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1629252695831</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Commit kitchen manager fix manage menu">
+      <created>1629289545088</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1629289545088</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Commit receptionist fix after invoice">
+      <created>1629392263783</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1629392263783</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Commit waiter fix delete queue order">
+      <created>1629395037724</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1629395037724</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Commit customer checklist drink and food">
+      <created>1629734072398</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1629734072398</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Commit waiter checklist drink and food">
+      <created>1629735513441</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1629735513441</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Commit cus view order">
+      <created>1629736975711</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1629736975711</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Commit recep and kitchen time count and export many dish">
+      <created>1629990231195</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1629990231196</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Commit notification sound">
+      <created>1630047744995</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1630047744996</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Commit waiter notification display">
+      <created>1630048026782</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1630048026782</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Commit receptionist and kitchen pagination display">
+      <created>1630080969969</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1630080969969</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Commit kitchen title notification">
+      <created>1630086464954</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1630086464955</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Commit waiter notification in detail table">
+      <created>1630217480552</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1630217480552</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Commit call payment notification">
+      <created>1630251576754</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1630251576754</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Commit waiter detail item, update number of customer">
+      <created>1630340846943</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1630340846943</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Commit fix css border radius">
+      <created>1630343227834</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1630343227834</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Commit input regex">
+      <created>1630436081077</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1630436081077</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Commit receptionist add, edit table input">
+      <created>1630437646299</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1630437646299</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Commit waiter change api comfirmed order">
+      <created>1630471204566</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1630471204566</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit customer add item and push to menu" />
+    <MESSAGE value="Commit customer big update menu and waiter navbar" />
+    <MESSAGE value="Commit customer big update menu second" />
+    <MESSAGE value="Commit customer search and navbar waiter" />
+    <MESSAGE value="Commit customer menu smooth" />
+    <MESSAGE value="Commit customer menu scroll and dish in combo waiter open table and completed confirm" />
+    <MESSAGE value="Commit receptionist fix manage table" />
+    <MESSAGE value="Commit kitchen manager fix manage menu" />
+    <MESSAGE value="Commit receptionist fix after invoice" />
+    <MESSAGE value="Commit waiter fix delete queue order" />
+    <MESSAGE value="Commit customer checklist drink and food" />
+    <MESSAGE value="Commit waiter checklist drink and food" />
+    <MESSAGE value="Commit cus view order" />
+    <MESSAGE value="Commit recep and kitchen time count and export many dish" />
+    <MESSAGE value="Commit notification sound" />
+    <MESSAGE value="Commit waiter notification display" />
+    <MESSAGE value="Commit receptionist and kitchen pagination display" />
+    <MESSAGE value="Commit kitchen title notification" />
+    <MESSAGE value="Commit waiter notification in detail table" />
+    <MESSAGE value="Commit call payment notification" />
+    <MESSAGE value="Commit waiter detail item, update number of customer" />
+    <MESSAGE value="Commit fix css border radius" />
+    <MESSAGE value="Commit input regex" />
+    <MESSAGE value="Commit receptionist add, edit table input" />
+    <MESSAGE value="Commit waiter change api comfirmed order" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit waiter change api comfirmed order" />
+  </component>
+</project>
