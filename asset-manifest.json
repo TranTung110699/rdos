@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/rdos/static/css/main.f82796e6.chunk.css",
+    "main.js": "/rdos/static/js/main.53d9c0f0.chunk.js",
+    "main.js.map": "/rdos/static/js/main.53d9c0f0.chunk.js.map",
+    "runtime-main.js": "/rdos/static/js/runtime-main.b11fdad2.js",
+    "runtime-main.js.map": "/rdos/static/js/runtime-main.b11fdad2.js.map",
+    "static/css/2.1dcf17fc.chunk.css": "/rdos/static/css/2.1dcf17fc.chunk.css",
+    "static/js/2.05cb39c6.chunk.js": "/rdos/static/js/2.05cb39c6.chunk.js",
+    "static/js/2.05cb39c6.chunk.js.map": "/rdos/static/js/2.05cb39c6.chunk.js.map",
+    "static/js/3.2e4f0581.chunk.js": "/rdos/static/js/3.2e4f0581.chunk.js",
+    "static/js/3.2e4f0581.chunk.js.map": "/rdos/static/js/3.2e4f0581.chunk.js.map",
+    "index.html": "/rdos/index.html",
+    "precache-manifest.2ed6c35927dc804c0c9cecca36ca9eaa.js": "/rdos/precache-manifest.2ed6c35927dc804c0c9cecca36ca9eaa.js",
+    "service-worker.js": "/rdos/service-worker.js",
+    "static/css/2.1dcf17fc.chunk.css.map": "/rdos/static/css/2.1dcf17fc.chunk.css.map",
+    "static/css/main.f82796e6.chunk.css.map": "/rdos/static/css/main.f82796e6.chunk.css.map",
+    "static/js/2.05cb39c6.chunk.js.LICENSE.txt": "/rdos/static/js/2.05cb39c6.chunk.js.LICENSE.txt",
+    "static/js/3.2e4f0581.chunk.js.LICENSE.txt": "/rdos/static/js/3.2e4f0581.chunk.js.LICENSE.txt",
+    "static/media/applepay.mp3": "/rdos/static/media/applepay.ebe3c7cd.mp3",
+    "static/media/theme.scss": "/rdos/static/media/materialdesignicons-webfont.fe1545ef.ttf",
+    "static/media/ding-sound-effect_2.mp3": "/rdos/static/media/ding-sound-effect_2.b08fa562.mp3",
+    "static/media/discord-notification.mp3": "/rdos/static/media/discord-notification.303a9497.mp3",
+    "static/media/error-img.png": "/rdos/static/media/error-img.c7ae99ce.png",
+    "static/media/incorrect.swf.mp3": "/rdos/static/media/incorrect.swf.15424912.mp3",
+    "static/media/ka-ching.mp3": "/rdos/static/media/ka-ching.645af864.mp3",
+    "static/media/logo-after-design.png": "/rdos/static/media/logo-after-design.0ba9d005.png",
+    "static/media/logo-web.jpg": "/rdos/static/media/logo-web.5be3ef82.jpg",
+    "static/media/logo.svg": "/rdos/static/media/logo.f7686e58.svg",
+    "static/media/profile-img.png": "/rdos/static/media/profile-img.ba4e037e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b11fdad2.js",
+    "static/css/2.1dcf17fc.chunk.css",
+    "static/js/2.05cb39c6.chunk.js",
+    "static/css/main.f82796e6.chunk.css",
+    "static/js/main.53d9c0f0.chunk.js"
+  ]
+}
